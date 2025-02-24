@@ -1,3 +1,3 @@
 # Qsight poc
 
-This repo is to check and explore data migration task integration with App Mod.
+The repository has legacy data model sql files, target data model sql files.
